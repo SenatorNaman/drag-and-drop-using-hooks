@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.columnContainer {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  margin: 24px auto;
+  width: 80%;
+  gap: 8px;
+}
